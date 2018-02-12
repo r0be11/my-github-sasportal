@@ -1,0 +1,49 @@
+.logo{
+    height: 40px;
+    width: 200px;
+    margin-top: -13px;
+    margin-left: auto;
+}
+
+.navbar-settings {
+    top: 7px;
+    position: relative;
+    left: -45px;
+}
+
+.navbar-fontcolor .nav> li > a{
+    color: #1570a6;
+    text-shadow: none;
+}
+
+.margin-right-125-neg{
+    position: relative;
+    top: -11px;
+    margin-right: -125px;
+}
+
+.margin-right-14-neg {
+    margin-right: -14px;
+}
+.profile-url-img {
+    height: 60px;
+    background-color: #2B6699;
+    float: right;
+    width: 60px;
+    top: 15px;
+    right: -244px;
+    border-radius: 30px;
+    border: white 2px solid;
+    overflow: hidden;
+}
+.profile-text {
+    position: relative;
+    top: 19px;
+    padding: 10px;
+}
+
+
+
+.questionFontsize{
+    font-size: 11px;
+}
