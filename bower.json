@@ -1,0 +1,21 @@
+{
+  "name": "ntt-asm-app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Olu Adekoya"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
